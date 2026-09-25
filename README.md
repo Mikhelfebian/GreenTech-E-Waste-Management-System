@@ -141,6 +141,14 @@ Berikut adalah struktur hirarki kelas dan relasi antar komponen dalam sistem:
 ### 3.2 Tangkapan Layar Output Program (Screenshots)
 
 
-| 1 | **Katalog Komoditas & E-Waste** | `docs/katalog.png` | Menampilkan daftar seluruh barang e-waste, e-part, unit refurbished, dan sertifikat karbon yang tersedia beserta spesifikasi, harga total per unit, dan sisa stok. |
-| 2 | **Keranjang & Restock Pasokan** | `docs/keranjang.png` | Menampilkan item yang berhasil ditambahkan ke keranjang belanja, perhitungan subtotal tiap item, serta proses penambahan stok barang (*restock*) dari penyetor limbah. |
+| 1 | **Katalog Komoditas & E-Waste**
+
+<img width="1462" height="423" alt="image" src="https://github.com/user-attachments/assets/8ce3c9f5-ab08-417b-a559-523605fa6e4a">
+
+Menampilkan daftar seluruh barang e-waste, e-part, unit refurbished, dan sertifikat karbon yang tersedia beserta spesifikasi, harga total per unit, dan sisa stok.
+
+| 2 | **Keranjang & Restock Pasokan**
+
+
+Menampilkan item yang berhasil ditambahkan ke keranjang belanja, perhitungan subtotal tiap item, serta proses penambahan stok barang (*restock*) dari penyetor limbah. |
 | 3 | **Struk Transaksi & Eco-Certificate** | `docs/struk.png` | Menampilkan rincian pembayaran akhir, kalkulasi subsidi/diskon hijau bertingkat, kembalian uang, serta sertifikat kontribusi pengurangan emisi CO2 secara otomatis. |

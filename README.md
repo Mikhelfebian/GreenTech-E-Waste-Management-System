@@ -1,8 +1,11 @@
 # 📝 DOKUMENTASI PROJEK
 ## GreenTech & E-Waste Management System
 **Nama**: Mikhel Febian
-**NIM**: 250911
+
+**NIM**: 2509116056
+
 **Mata Kuliah**: Pemrograman Berorientasi Objek (PBO) Java  
+
 **Tugas**: Projek Ujian Tengah Semester (UTS)  
 
 ---

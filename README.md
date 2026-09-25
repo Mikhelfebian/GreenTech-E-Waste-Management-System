@@ -144,9 +144,3 @@ Berikut adalah struktur hirarki kelas dan relasi antar komponen dalam sistem:
 | 1 | **Katalog Komoditas & E-Waste** | `docs/katalog.png` | Menampilkan daftar seluruh barang e-waste, e-part, unit refurbished, dan sertifikat karbon yang tersedia beserta spesifikasi, harga total per unit, dan sisa stok. |
 | 2 | **Keranjang & Restock Pasokan** | `docs/keranjang.png` | Menampilkan item yang berhasil ditambahkan ke keranjang belanja, perhitungan subtotal tiap item, serta proses penambahan stok barang (*restock*) dari penyetor limbah. |
 | 3 | **Struk Transaksi & Eco-Certificate** | `docs/struk.png` | Menampilkan rincian pembayaran akhir, kalkulasi subsidi/diskon hijau bertingkat, kembalian uang, serta sertifikat kontribusi pengurangan emisi CO2 secara otomatis. |
-
----
-*Dokumentasi ini disusun sesuai dengan ketentuan Komponen Wajib README.md untuk Tugas Projek UTS Pemrograman Berorientasi Objek.*
-```
-
-Dokumentasi README.md sudah diperbarui sesuai 3 komponen utama wajib. Jika ada bagian yang ingin ditambahkan lagi, silakan beri tahu ya!

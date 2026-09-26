@@ -153,7 +153,4 @@ Berikut adalah struktur hirarki kelas dan relasi antar komponen dalam sistem:
 
 <img width="611" height="266" alt="image" src="https://github.com/user-attachments/assets/73ccad87-0526-48e8-a750-159597534050" />
 
-
-
-Menampilkan item yang berhasil ditambahkan ke keranjang belanja, perhitungan subtotal tiap item, serta proses penambahan stok barang (*restock*) dari penyetor limbah. |
 | 3 | **Struk Transaksi & Eco-Certificate** | `docs/struk.png` | Menampilkan rincian pembayaran akhir, kalkulasi subsidi/diskon hijau bertingkat, kembalian uang, serta sertifikat kontribusi pengurangan emisi CO2 secara otomatis. |

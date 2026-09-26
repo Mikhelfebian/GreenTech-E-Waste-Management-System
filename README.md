@@ -152,5 +152,3 @@ Berikut adalah struktur hirarki kelas dan relasi antar komponen dalam sistem:
 <img width="1453" height="521" alt="image" src="https://github.com/user-attachments/assets/211008ca-7acd-4e87-aec0-b9e33fde934f" />
 
 <img width="611" height="266" alt="image" src="https://github.com/user-attachments/assets/73ccad87-0526-48e8-a750-159597534050" />
-
-| 3 | **Struk Transaksi & Eco-Certificate** | `docs/struk.png` | Menampilkan rincian pembayaran akhir, kalkulasi subsidi/diskon hijau bertingkat, kembalian uang, serta sertifikat kontribusi pengurangan emisi CO2 secara otomatis. |

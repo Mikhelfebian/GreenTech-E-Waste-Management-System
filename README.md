@@ -141,13 +141,18 @@ Berikut adalah struktur hirarki kelas dan relasi antar komponen dalam sistem:
 ### 3.2 Tangkapan Layar Output Program (Screenshots)
 
 
-| 1 | **Katalog Komoditas & E-Waste**
+<img width="1450" height="427" alt="image" src="https://github.com/user-attachments/assets/ca8b0046-81bb-4d80-8b66-ea2dd4d05272" />
 
-<img width="1462" height="423" alt="image" src="https://github.com/user-attachments/assets/8ce3c9f5-ab08-417b-a559-523605fa6e4a">
+<img width="1463" height="506" alt="image" src="https://github.com/user-attachments/assets/f3634b7a-8b3f-4797-bfab-a639bf1f82b6" />
 
-Menampilkan daftar seluruh barang e-waste, e-part, unit refurbished, dan sertifikat karbon yang tersedia beserta spesifikasi, harga total per unit, dan sisa stok.
+<img width="1041" height="335" alt="image" src="https://github.com/user-attachments/assets/d1364479-a0bd-4b35-8797-4d7534eec8bb" />
 
-| 2 | **Keranjang & Restock Pasokan**
+<img width="500" height="273" alt="image" src="https://github.com/user-attachments/assets/2c2f19af-cfa2-4794-8ee3-f888dadc7ca1" />
+
+<img width="1453" height="521" alt="image" src="https://github.com/user-attachments/assets/211008ca-7acd-4e87-aec0-b9e33fde934f" />
+
+<img width="611" height="266" alt="image" src="https://github.com/user-attachments/assets/73ccad87-0526-48e8-a750-159597534050" />
+
 
 
 Menampilkan item yang berhasil ditambahkan ke keranjang belanja, perhitungan subtotal tiap item, serta proses penambahan stok barang (*restock*) dari penyetor limbah. |
